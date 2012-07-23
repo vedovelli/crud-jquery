@@ -1,0 +1,7 @@
+Array
+(
+    [id] => 0
+    [title] => fsdfdsfs
+    [category] => fsdfsdf
+    [google_id] => fsdfdsfds
+)
